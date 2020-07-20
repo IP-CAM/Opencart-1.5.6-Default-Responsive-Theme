@@ -1,4 +1,4 @@
-Opencart-Default-Responsive-Theme
+Opencart-v.1.5.6.-Default-Responsive-Theme
 =================================
 
 The official Opencart Default Theme is not responsive. 
